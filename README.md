@@ -1,0 +1,2 @@
+# Systematic_review_automation_CAMs-treatment
+https://github.com/Xiaowen-JI/Systematic_review_automation_CAMs-treatment/blob/f042bcdbf47dc278c9aa2405b291c3363246f63d/pipeline.JPG
